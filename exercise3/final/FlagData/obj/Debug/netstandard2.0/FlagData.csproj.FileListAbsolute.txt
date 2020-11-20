@@ -1,0 +1,9 @@
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\obj\Debug\netstandard2.0\FlagData.csproj.CoreCompileInputs.cache
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+C:\Users\sisiposongo\source\xamarin\data-binding-exercise\exercise3\final\FlagData\obj\Debug\netstandard2.0\FlagData.pdb

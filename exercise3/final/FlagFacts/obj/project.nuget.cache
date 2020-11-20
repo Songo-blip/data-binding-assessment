@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGEuQr4uYKGkG8TG7OZJFwrBXO9aC2hEZthgIyGfTGMK+ygmMZbH30USJFYgMgxAVdW6IWYh+bxBQFDjck5L8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sisiposongo\\source\\xamarin\\data-binding-exercise\\exercise3\\final\\FlagFacts\\FlagFacts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sisiposongo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sisiposongo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sisiposongo\\.nuget\\packages\\xamarin.forms\\4.0.0.62955-pre2\\xamarin.forms.4.0.0.62955-pre2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdEV9KWyBycYNOuCgXBJLbnIf4uZcF9GU3FhDxSF3Sqqy7ueUjlwYxm//FfR53vyELo1b/UU2lz8/Hyqu2BcvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sisiposongo\\Source\\xamarin\\data-binding-exercise\\exercise1\\start\\FlagFacts.iOS\\FlagFacts.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sisiposongo\\.nuget\\packages\\xamarin.forms\\4.0.0.62955-pre2\\xamarin.forms.4.0.0.62955-pre2.nupkg.sha512",
+    "C:\\Users\\sisiposongo\\.nuget\\packages\\xamarin.ios.materialcomponents\\60.1.0\\xamarin.ios.materialcomponents.60.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

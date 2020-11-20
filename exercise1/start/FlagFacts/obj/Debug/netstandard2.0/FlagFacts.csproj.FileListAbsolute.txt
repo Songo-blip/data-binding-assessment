@@ -1,0 +1,15 @@
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CoreCompileInputs.cache
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+C:\Users\sisiposongo\Source\xamarin\data-binding-exercise\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb
